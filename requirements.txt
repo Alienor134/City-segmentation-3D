@@ -6,7 +6,7 @@ decorator==4.4.0
 kiwisolver==1.0.1
 matplotlib==3.0.3
 networkx==2.2
-numpy==1.16.2
+numpy==1.22.0
 Pillow==5.4.1
 progressbar==2.5
 pyparsing==2.3.1
